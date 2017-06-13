@@ -9,8 +9,8 @@ Education:
 
 Work experience:
 
-* Trainee in SmartDec (smartdec.ru, Java), '17.
-* Junior developer in GetShop.TV (getshoptv.com, Haskell), '17 - present.
+* Trainee in SmartDec ([smartdec.ru](http://smartdec.ru), Java), '17.
+* Junior developer in GetShop.TV ([getshoptv.com](http://getshoptv.com), Haskell), '17 - present.
 
 
 *Vit Guzeev*
